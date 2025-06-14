@@ -1,7 +1,6 @@
-###Name: NADISH.S
-###Register no: 212224050023
-###Date:18/03/2025
-
+### name: S.NADISH
+### REG NO:212224050023
+### DATE: 18/03/2025 
 
 ### study-of-basic-gates
 
