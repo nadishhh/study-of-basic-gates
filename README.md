@@ -1,3 +1,8 @@
+###Name: NADISH.S
+###Register no: 212224050023
+###Date:18/03/2025
+
+
 ### study-of-basic-gates
 
 **AIM:** 
